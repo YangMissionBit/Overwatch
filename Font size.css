@@ -4,8 +4,22 @@ p{
 }
 a{
     font-size: 40px;
+    text-decoration: none;
 }
 
 div{
     margin-top: 100px;
+}
+
+img {
+    margin:auto;
+    float:inherit;
+}
+
+html {
+    background-color: antiquewhite
+}
+
+#nofood {
+    color:red;
 }
